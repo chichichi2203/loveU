@@ -1,18 +1,18 @@
 const CONFIG = {
     titleWeb: "I Love You",
     introTitle: 'Hello anh',
-    introDesc: `Ngay hom nay cua anh the nao? 
-    Ban ron, ap luc hay la vui ve binh yen`,
-    btnIntro: '^^Du la the nao cung nhan vao day nhe^^',
-    title: 'Toc em mau den Moi em mau do' ,
-    desc: 'Lai em hoi nho, anh co nho em khong? ',
-    btnYes: 'Nho em',
-    btnNo: 'Khong nho em',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao anh lai yeu em nhi',
-    btnReply: 'Gui em',
-    reply: 'Vi anh biet em cung yeu anh',
-    mess: 'Yeu anh',
-    messDesc: 'Em da tung muon chinh phuc ca the gioi, gap anh roi moi chot nhan ra, tung manh, tung manh trong the gioi ay deu la anh',
-    btnAccept: 'Dong y thi bam vao day',
+    introDesc: `Ngày hôm nay của anh thế nào? 
+    Bận rộn, áp lực hay vui vẻ, yên bình`,
+    btnIntro: '^^Dù là thế nào cũng hãy nhấn vào đây nhé^^',
+    title: 'Tóc em màu đen. Môi em màu đỏ' ,
+    desc: 'Lại em hỏi nhỏ. Anh nhớ em không? ',
+    btnYes: 'Nhớ em',
+    btnNo: 'Không nhớ em',
+    question: 'Trên thế giới có hơn 7 tỉ người, sao anh lại yêu em nhỉ',
+    btnReply: 'Gửi em',
+    reply: 'Vì anh biết em cũng yêu anh',
+    mess: 'Yêu anh',
+    messDesc: 'Em đã từng muốn chinh phục thế giới, nhưng gặp anh mới chợt nhận ra, từng mảnh, từng mảnh trong thế giới của em.... đều là anh',
+    btnAccept: 'Đồng ý bên em thì nhấn vào đây nhé',
     messLink: 'https://www.facebook.com/messages/t/100029383322998/'
 }
