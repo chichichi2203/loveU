@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Yêu anh',
     messDesc: 'Em đã từng muốn chinh phục thế giới, nhưng gặp anh mới chợt nhận ra, từng mảnh, từng mảnh trong thế giới của em.... đều là anh',
     btnAccept: 'Đồng ý bên em thì nhấn vào đây nhé',
-    messLink: 'https://www.facebook.com/messages/t/100029383322998/'
+    messLink: 'https://messages/t/100029383322998/'
 }
