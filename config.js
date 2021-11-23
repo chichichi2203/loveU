@@ -3,7 +3,7 @@ const CONFIG = {
     introTitle: 'Hello anh',
     introDesc: `Ngày hôm nay của anh thế nào? 
     Bận rộn, áp lực hay vui vẻ, yên bình`,
-    btnIntro: '^^Dù là thế nào cũng hãy nhấn vào đây nhé^^',
+    btnIntro: 'Dù là thế nào cũng hãy nhấn vào đây nhé^^',
     title: 'Tóc em màu đen. Môi em màu đỏ' ,
     desc: 'Lại em hỏi nhỏ. Anh nhớ em không? ',
     btnYes: 'Nhớ em',
@@ -14,5 +14,5 @@ const CONFIG = {
     mess: 'Yêu anh',
     messDesc: 'Em đã từng muốn chinh phục thế giới, nhưng gặp anh mới chợt nhận ra, từng mảnh, từng mảnh trong thế giới của em.... đều là anh',
     btnAccept: 'Đồng ý bên em thì nhấn vào đây nhé',
-    messLink: 'https://messages/t/100029383322998/'
+    messLink: 'https://www.facebook.com/chichine201'
 }
